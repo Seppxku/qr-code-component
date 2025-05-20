@@ -12,7 +12,7 @@
 
 In this section, I learned :
 
-- How to structure an HTML document semantically using elements like '<article>'
+- How to structure an HTML document semantically using elements like `<article>`
 - How to use CSS Flexbox for centering and arranging elements vertically and horizontally.
 - How to use relative units like 'rem' for padding and border-radius to improve scalability and accessibility.
 
